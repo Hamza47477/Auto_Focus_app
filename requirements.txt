@@ -1,0 +1,12 @@
+# Runtime dependencies of the static autofocusing application.
+# Install with:  python -m pip install -r requirements.txt
+#
+# The autofocus/ package (algorithms, no GUI) only needs numpy, opencv-python
+# and matplotlib (for experiments/make_report_figures.py) plus pytest for the
+# test suite. PySide6 is for the GUI that will be built on top of it later.
+
+PySide6>=6.6          # Qt widgets, the worker threads and the signals (GUI, built later).
+numpy>=1.26           # Arrays, the quadratic fit and the stochastic step factor.
+opencv-python>=4.8    # Image decoding, crop and denoise.
+matplotlib>=3.8       # Report figures (experiments/make_report_figures.py).
+pytest>=7.4           # Test suite (tests/).

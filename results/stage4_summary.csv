@@ -1,0 +1,17 @@
+speed,version,success_rate,mean_images_read
+pollen.spd1,plain,0.020,17.90
+pollen.spd1,+overshoot,0.360,12.86
+pollen.spd1,+stochastic,0.360,13.54
+pollen.spd1,+neighbor+safety,0.760,26.48
+pollen.spd2,plain,0.000,17.08
+pollen.spd2,+overshoot,0.680,15.00
+pollen.spd2,+stochastic,0.580,16.66
+pollen.spd2,+neighbor+safety,0.800,27.30
+pollen.spd3,plain,0.000,20.58
+pollen.spd3,+overshoot,0.780,15.98
+pollen.spd3,+stochastic,0.820,17.36
+pollen.spd3,+neighbor+safety,1.000,27.00
+pollen.spd5,plain,0.020,22.86
+pollen.spd5,+overshoot,0.940,19.94
+pollen.spd5,+stochastic,0.940,19.48
+pollen.spd5,+neighbor+safety,1.000,27.84

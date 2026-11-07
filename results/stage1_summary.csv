@@ -1,0 +1,5 @@
+speed,coarse_index,coarse_position_mm,coarse_focus,fine_position_mm,images_read
+pollen.spd1,99,10.9900,23.114126,10.9792,199
+pollen.spd2,98,10.9800,21.112845,10.9733,199
+pollen.spd3,97,10.9700,19.189549,10.9713,199
+pollen.spd5,97,10.9700,16.858516,10.9702,199
